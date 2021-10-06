@@ -6,10 +6,9 @@ Main source is here [main source](https://github.com/sandy1709/catuserbot) fork 
 
 ## Deploy
 
-fork this repo and [main repo](https://github.com/sandy1709/catuserbot) and click on deploy
+fork this repo and [main repo](https://github.com/AkBotmakers/nekopack) and click on deploy
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## credits
-   - [@midnightmadwalk](https://t.me/midnightmadwalk)
-   - [@DeletedUser420](https://t.me/DeletedUser420)
+   - [@IAM_A_JOKER](https://t.me/IAM_A_JOKER)
