@@ -11,4 +11,4 @@ fork this repo and [main repo](https://github.com/Akbotmakersnew/AK-USERBOT-) an
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## credits
-   - [@IAM_A_JOKER](https://t.me/IAM_A_JOKER)
+   - [@minimohanan ](https://t.me/minimohanan)
