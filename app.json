@@ -1,13 +1,13 @@
 {
   "name": "KZ-Catuserbot",
   "description": "A simple Telegram userbot based on Telethon . Maintained by Sandeep ",
-  "logo": "https://telegra.ph/file/a2f742a3b4dafb0228d80.jpg",
+  "logo": "https://telegra.ph/file/61bf8a6c2bfbc2e46ec34.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/killer-zackı/KZ-USERBOT-",
+  "repository": "https://github.com/KZ_BOT_MAKERS/KZ-USERBOT-",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
